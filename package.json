@@ -1,5 +1,6 @@
 {
-	"name": "quine-mccluskey-js",
+        "private": false,
+	"name": "@helander/quine-mccluskey-js",
 	"version": "1.0.0",
 	"description": "",
         "repository": {
