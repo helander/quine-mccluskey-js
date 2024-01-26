@@ -1,0 +1,28 @@
+{
+	"name": "quine-mccluskey-js",
+	"version": "1.0.0",
+	"description": "",
+        "repository": {
+           "type": "git",
+            "url": "https://github.com/helander/quine-mccluskey-js.git",
+            "directory": "tree/"
+        },
+	"main": "quinemccluskey.js",
+	"keywords": [
+		"quine", "mccluskey",
+		"logical", "expressions",
+		"boolean", "algebra", "logic"
+	],
+        "author": {
+           "name": "Lars-Erik Helander",
+           "email": "lehswe@gmail.com",
+           "url": "https://helander.network"
+        },
+        "contributors": [
+          {
+            "name": "FellowHashbrown"
+          }
+        ],	"license": "MIT",
+	"dependencies": {},
+	"devDependencies": {}
+}
